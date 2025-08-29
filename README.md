@@ -1,2 +1,2 @@
 # html-reposit-rio
-novo repositótio
+novo repositório com exemplo meu novo site HTML
